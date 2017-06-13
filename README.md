@@ -19,7 +19,7 @@ The  projector and the Kinect device need to be positioned in a relative height 
 
 ![Alt text](http://1.bp.blogspot.com/-5vnsfpF8N9E/Ug0Q8L_X2HI/AAAAAAAAE8I/1E8D8G2auYQ/s1600/Ubi-Finger-Mode-Setup.jpg "Tabletop setup")
 
-## Running the toolkit
+## Running InitialInsights
 
 To run the toolkit, Processing version 3 or higher should be installed on your computer (currently our toolkit is tested only on Windows 10). You can download Processing from https://processing.org/download/.
 Having downloaded and installed processing, to run the toolkit simply put all the InitialInsights files under a single directory and run Main.pde file.
