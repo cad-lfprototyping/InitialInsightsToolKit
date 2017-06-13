@@ -1,6 +1,6 @@
 # InitialInsights
 InitialInsights is a tabletop toolkit  for synchronous collaboration in rapid prototyping.
-## Hardware Setup
+## Necessary Hardware
  
 For the development of InitialInsights the following hardware has been used:
 - Desktop Computer
