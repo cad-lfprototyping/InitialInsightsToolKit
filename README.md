@@ -49,7 +49,7 @@ Wind flow model has been implemented using PixelFlow library. The library manage
  
 ### Demo
 
-https://www.dropbox.com/s/gsx8bok9h4tk168/Submission_18.mp4?dl=0
+https://www.dropbox.com/s/gsx8bok9h4tk168/Submission_18.mp4
  
  
 ## References:
