@@ -22,7 +22,7 @@ The  projector and the Kinect device need to be positioned in a relative height 
 ## Running the toolkit
 
 To run the toolkit, Processing version 3 or higher should be installed on your computer (currently our toolkit is tested only on Windows 10). You can download Processing from https://processing.org/download/.
-Having downloaded and installed processing, to run the toolkit simply put all the files under a single directory and run the Main.pde file.
+Having downloaded and installed processing, to run the toolkit simply put all the InitialInsights files under a single directory and run Main.pde file.
 
 ## Software
  
