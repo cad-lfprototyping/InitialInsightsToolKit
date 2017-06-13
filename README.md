@@ -32,8 +32,8 @@ After downloading and installing the libraries, to run the toolkit simply put al
 
 ### Config.json
 
-Default values with respect to our configuration of tabletop, are set in the Config.json file. For instance, the *x* and *y* coordinates projector's viewport which is correlated with the distance of projector from the table can be modified respectively for any configuration in this file.
-Button size is determined here, thus can be altered from this file.
+Default values with respect to our configuration of tabletop, are set in the Config.json file. For instance, the *x* and *y* coordinates of projector's viewport, which is correlated with the distance of projector from the table, can be modified respectively for any configuration in this file.
+Button sizes are determined here, thus can be altered from this file.
 Other constants, such as the size of the circles, which represent the pedestrians in the example, can be modified from Config.json, as well.
 
 ## Software
