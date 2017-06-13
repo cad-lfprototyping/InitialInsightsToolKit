@@ -21,7 +21,7 @@ The  projector and the Kinect device need to be positioned in a relative height 
 
 ## Running InitialInsights
 
-To run the toolkit, Processing version 3 or higher should be installed on your computer (currently our toolkit is tested only on Windows 10). You can download Processing from https://processing.org/download/.
+To run the toolkit, Processing version 3 or higher should be installed on your computer (currently our toolkit has been tested only on Windows 10). You can download Processing from https://processing.org/download/.
 Having downloaded and installed processing, the libraries used by InitialInsights need to also be installed:
 - OpenCV (download from: http://ubaa.net/shared/processing/opencv/)
 - FingerTracker (download from: http://makematics.com/code/FingerTracker/)
@@ -29,6 +29,11 @@ Having downloaded and installed processing, the libraries used by InitialInsight
 - KinectPV2 (download from: http://codigogenerativo.com/code/kinectpv2-k4w2-processing-library/)
 
 After downloading and installing the libraries, to run the toolkit simply put all the InitialInsights files under a single directory and run Main.pde file.
+
+### Config.json
+
+Default values with respect to our configuration of tabletop, are set in the Config.json file. For instance, the *x* and *y* coordinates projector's viewport which is correlated with the distance of projector from the table can be modified respectively for any configuration in this file.
+Other constants, such as the size of the circles, which represent the pedestrians, can be modified from Config.json, as well.
 
 ## Software
  
