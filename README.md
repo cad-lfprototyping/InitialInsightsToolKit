@@ -12,6 +12,12 @@ For the development of InitialInsights the following hardware has been used:
 - Simple wooden table as projecting surface
  
 *Note: To run InitialInsights the aforementioned hardware specs are recommended, but not required.*
+## Tabletop Setup
+
+The  projector and the Kinect device need to be positioned in a relative height and perpendicular to the table, for the table to be used as a projecting surface. The Kinect and projector also have a relative distance amongst them. A sample setup is shown in the figure below. (Figure taken from: http://www.pinoytechnoguide.com/2013/08/how-to-use-ubi-transform-any-wall-to-touchscreen.html)
+
+
+![Alt text](http://1.bp.blogspot.com/-5vnsfpF8N9E/Ug0Q8L_X2HI/AAAAAAAAE8I/1E8D8G2auYQ/s1600/Ubi-Finger-Mode-Setup.jpg "Tabletop setup")
 
 ## Software
  
