@@ -53,8 +53,8 @@ https://www.dropbox.com/s/gsx8bok9h4tk168/Submission_18.mp4
  
  
 ## References:
-- [1] FingerTracker library for processing. http://makematics.com/code/FingerTracker/; 2017. Accessed: 2017-04-23.
-- [2] Pixelflow: A processing library for high performance gpu-computing (glsl). http://thomasdiewald.com/processing/libraries/pixelflow/; 2017. Accessed: 2017-04-23.
-- [3] KinectPV2. http://codigogenerativo.com/code/kinectpv2-k4w2-processing-library/;2017. Accessed: 2017-06-13.
+- [1] FingerTracker library for processing. http://makematics.com/code/FingerTracker/ ; 2017. Accessed: 2017-04-23.
+- [2] Pixelflow: A processing library for high performance gpu-computing (glsl). http://thomasdiewald.com/processing/libraries/pixelflow/ ; 2017. Accessed: 2017-04-23.
+- [3] KinectPV2. http://codigogenerativo.com/code/kinectpv2-k4w2-processing-library/ ;2017. Accessed: 2017-06-13.
 
 
