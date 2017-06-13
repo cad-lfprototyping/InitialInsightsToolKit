@@ -17,7 +17,7 @@ For the development of InitialInsights the following hardware has been used:
 The  projector and the Kinect device need to be positioned in a relative height and perpendicular to the table, for the table to be used as a projecting surface. The Kinect and projector also have a relative distance amongst them. Both devices (projector & Kinect )  need to be connected to the same computer. A sample setup is shown in the figure below.
 
 
-![Alt text](https://www.dropbox.com/s/tgnhbtkkvykp1i7/cad.png?dl=0 "Tabletop setup")
+![Alt text](cad.png?raw=true "Tabletop setup")
 
 ## Running InitialInsights
 
