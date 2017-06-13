@@ -1,0 +1,72 @@
+{
+	"calibration": 
+	{
+		"extent":{
+			"lon-min": 28.9,
+			"lat-min": 40.95,
+			"lon-max": 29.1,
+			"lat-max": 41.1
+		},
+		"fitting": {
+			"x-offset": 324,
+			"y-offset": 1095,
+			"scale": 638
+		},
+        "kinect":{
+            "roi-origin-x": 191,
+            "roi-origin-y": 281,
+            "roi-width": 195,
+            "roi-height": 146,
+            "margin-ignore": .06,
+            "blur-coefficient": 5,
+            "contrast-increase-coefficient": 10,
+            "pixel-difference-threshold": 200
+        }
+	},
+	"data":
+	{
+		"heatmap-url": "ws://10.92.54.152:8080/heatmap?rate=3",
+		"single-point-selection-radius": 100
+	},
+	"style":
+    {
+        "heatmap":{
+            "level-7-fill-color": "dc707070",
+            "level-6-fill-color": "dc99d594",
+            "level-5-fill-color": "dce6f598",
+            "level-4-fill-color": "dcffffbf",
+            "level-3-fill-color": "dcfee08b",
+            "level-2-fill-color": "dcfc8d59",
+            "level-1-fill-color": "dcd53e4f",
+            "level-none-fill-color": "00bcf4f5",
+            "levels-stroke-color": "0f0f0f",
+            "legend-stroke-color": "dc282828",
+            "legend-stroke-weight": 1
+        },
+        "map":{
+            "sea-fill-color": "ffbcf4f5",
+            "neigborhood-fill-color": "ff282828",
+            "neigborhood-stroke-color": "ff323232",
+            "motorway-stroke-color": "9b89a4cb",
+            "primary-stroke-color": "9bdd9f9f",
+            "trunk-stroke-color": "9b94d494",
+            "link-stroke-weight": 1,
+            "other-stroke-weight": 1.5
+        },
+	"agent":{
+            "buttonSize": 30,
+            "selectionPadX": 70,
+            "selectionPadY": 5,
+            "diameter": 14,
+            "defaultCost": 1,
+            "baseX": 450,
+            "baseY": 200,
+            "tableW": 1000,
+	    "tableH": 830,
+            "border": 100,
+            "numAnt": 20,
+	    "imageName": "map1.jpg",
+	    "backgroundColor": "ffEEFAC9"
+        }
+    }
+}
