@@ -49,7 +49,7 @@ For software implementation of the application, the following setup has been use
 Basically, the application takes the user input through Kinect and sends the output to the projector. To do this, the modules described below are needed.
 
 *Note: The files have been split into subdirectories for ease of understanding. In order to run, when downloaded they should all be put into a single directory.*
-
+  
 ### Input & Object Detection
 A thread in InitialInsights continuously scans and processes the infrared and depth maps provided by Kinect in order to locate and track the changes that happen in the viewport for a determined time interval. To do this the delta of the depth and the infrared images is computed for each time interval. The fused (under bitwise OR operation) image of the two delta images (infrared and depth) is then fed to the FingerTracker module. With the help of this module, the nearby pixels of the index finger are considered as target of the user.
  
