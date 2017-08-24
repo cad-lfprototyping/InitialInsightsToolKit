@@ -1,4 +1,3 @@
- //<>//
 FingerFinder tracker;
 
 MainWindow [] mainWindows = new MainWindow[2] ;
